@@ -139,7 +139,7 @@ Learn more: [https://www.coffeeinstitute.org](https://www.coffeeinstitute.org)
 
 ## 📬 Connect with Me
 
-👤 ** Vrishikaa Krshna Moorthy  **  
+👤 ** Vrishikaa Krishna Moorthy  **  
 🔗 [LinkedIn](https://www.linkedin.com/in/vrishikaa-krishnamoorthy-589606217/)  
 
 
