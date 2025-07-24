@@ -29,12 +29,19 @@ This project provides a centralized Power BI dashboard to solve these challenges
 ## 📁 Project Structure & Flow
 
 Coffee-Quality-Analysis/
+
 ├── README.md # Project documentation
+
 ├── dataset/
+
 │ └── coffee_quality_data.csv # Raw or cleaned dataset
+
 ├── visuals/
+
 │ ├── Coffee quality analysis.pbix # Power BI dashboard file
+
 ├── reports/
+
 │ └── Coffee_Quality_Report.pdf # Summary of insights (optional)
 
 
